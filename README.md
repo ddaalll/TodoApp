@@ -1,4 +1,4 @@
-## Todo List Memo App
+## TodoList App
 
 ## 개요
 
